@@ -1,0 +1,20 @@
+{
+  "success": "✅",
+  "error": "❌",
+  "warning": "⚠️",
+  "info": "ℹ️",
+  "ticket": "🎟️",
+  "moderation": "🛡️",
+  "utility": "🔧",
+  "fun": "🎮",
+  "minecraft": "⛏️",
+  "ai": "🤖",
+  "admin": "⚙️",
+  "user": "👤",
+  "server": "🏢",
+  "ping": "🏓",
+  "online": "🟢",
+  "offline": "🔴",
+  "player": "👤",
+  "players": "👥"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "skynix-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for Sky Realm Minecraft server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "minecraft",
+    "skynix",
+    "skyservers"
+  ],
+  "author": "SkyNix Bot Developer",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "minecraft-server-util": "^5.4.4",
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
