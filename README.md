@@ -1,0 +1,2 @@
+# SkyNix
+Discord BOT
